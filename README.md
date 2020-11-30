@@ -1,6 +1,7 @@
 # pandas
 
 This code sample is a walkthrough to cover the fundamental concepts to use for Python Pandas used in Data Science.
+
 Here, we then look at different ways I tried to perform on Pokemon Dataset: 
 * Loading the data into Pandas (CSVs, Excel, TXTs, etc.)
 * Reading Data (Getting Rows, Columns, Cells, Headers, etc.)
