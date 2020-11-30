@@ -45,7 +45,7 @@
 38	Ninetales	Fire		73	76	75	81	100	100	1	FALSE
 39	Jigglypuff	Normal	Fairy	115	45	20	45	25	20	1	FALSE
 40	Wigglytuff	Normal	Fairy	140	70	45	85	50	45	1	FALSE
-41	Zubat	Poison	Flying	40	45	35	30	40	55	1	FALSE
+41	Zubat	Poison	Flying	40	46	35	30	40	55	1	FALSE
 42	Golbat	Poison	Flying	75	80	70	65	75	90	1	FALSE
 43	Oddish	Grass	Poison	45	50	55	75	65	30	1	FALSE
 44	Gloom	Grass	Poison	60	65	70	85	75	40	1	FALSE
