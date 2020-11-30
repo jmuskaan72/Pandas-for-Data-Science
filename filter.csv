@@ -1,0 +1,15 @@
+,#,Name,Type 1,Type 2,Sp. Atk,Sp. Def,Speed,Generation,Legendary,Total,HP,Attack,Defense
+0,1,Bulbasaur,Grass,Poison,65,65,45,1,False,1815.0,45,49,49
+1,2,Ivysaur,Grass,Poison,80,80,60,1,False,2329.0,60,62,63
+2,3,Venusaur,Grass,Poison,100,100,80,1,False,3049.0,80,82,83
+3,3,VenusaurMega Venusaur,Grass,Poison,122,120,80,1,False,3657.0,80,100,123
+4,43,Oddish,Grass,Poison,75,65,30,1,False,1857.0,45,50,55
+5,44,Gloom,Grass,Poison,85,75,40,1,False,2352.0,60,65,70
+6,45,Vileplume,Grass,Poison,110,90,50,1,False,2907.0,75,80,85
+7,69,Bellsprout,Grass,Poison,70,30,40,1,False,1882.0,50,75,35
+8,70,Weepinbell,Grass,Poison,85,45,55,1,False,2422.0,65,90,50
+9,71,Victreebel,Grass,Poison,100,70,70,1,False,2992.0,80,105,65
+10,315,Roselia,Grass,Poison,100,80,65,3,False,2156.0,50,60,45
+11,407,Roserade,Grass,Poison,125,105,90,4,False,2738.0,60,70,65
+12,590,Foongus,Grass,Poison,55,55,15,5,False,1955.0,69,55,45
+13,591,Amoonguss,Grass,Poison,85,80,30,5,False,3085.0,114,85,70
